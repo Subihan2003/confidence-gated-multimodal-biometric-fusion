@@ -54,7 +54,6 @@ See `notebooks/data\_preparation/` for the exact splitting and 204-identity virt
 |Iris (IITD)|99.51%|99.75%|99.75%|
 |Voice (VoxCeleb1 subset)|92.41%|97.20%|98.19%|
 
-*(Fingerprint row intentionally left blank — pending the Table 5 number update discussed separately.)*
 
 Fused (all modalities present): **100%** top-1 identification accuracy.
 
