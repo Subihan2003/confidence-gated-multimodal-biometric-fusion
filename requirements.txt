@@ -1,0 +1,16 @@
+torch
+torchvision
+timm
+albumentations
+opencv-python
+pillow
+librosa
+numpy
+pandas
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+tqdm
+captum
+torchinfo
